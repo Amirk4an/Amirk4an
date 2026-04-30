@@ -8,31 +8,6 @@
 <sub><i>quiet work. sharp systems. long-term growth.</i></sub>
 
 </div>
-
----
-
-##  01 / KNOW ABOUT ME
-
-I build useful digital products with a focus on backend quality and automation.
-Currently growing through internships, continuous practice, and shipping real tools.
-Core stack: **TypeScript, Python, Node.js, PostgreSQL, Prisma**.
-
----
-
-##  02 / TOP PROJECTS
-
-- **Automation Workflows** — cross-platform pipelines that remove repetitive work.
-- **Backend Products** — clean APIs, integrations, and reliable architecture.
-- **Technical Setups** — advanced workstation and streaming configurations.
-
----
-
-##  03 / MINDSET
-
-- **Builder + Reflector** — engineering with deep reflection and self-analysis.
-- **Discipline** — technical growth and physical development move together.
-- **Balance** — digital work stays connected to real life.
-
 ---
 
 ##  04 / CONNECT
