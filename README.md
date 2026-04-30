@@ -8,10 +8,6 @@
 <sub><i>quiet work. sharp systems. long-term growth.</i></sub>
 
 </div>
----
-
-##  04 / CONNECT
-
 <div align="left">
   <a href="https://github.com/Amirk4an">
     <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
