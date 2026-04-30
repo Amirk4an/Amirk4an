@@ -5,10 +5,10 @@
 `full-stack product maker  |  automation  |  aesthetic dark`
 
 <br/>
-<sub><i>quiet work. sharp systems. long-term growth.</i></sub>
+<sub style="padding-top: 50px;"><i>quiet work. sharp systems. long-term growth.</i></sub>
 
 </div>
-<div align="center" style="padding-top: 50px;">
+<div align="center">
   <a href="https://github.com/Amirk4an">
     <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
