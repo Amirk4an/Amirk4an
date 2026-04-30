@@ -5,7 +5,7 @@
 `full-stack product maker  |  automation  |  aesthetic dark`
 
 <br/>
-<sub style="padding-top: 50px;"><i>quiet work. sharp systems. long-term growth.</i></sub>
+<sub><i>quiet work. sharp systems. long-term growth.</i></sub>
 
 </div>
 <div align="center">
